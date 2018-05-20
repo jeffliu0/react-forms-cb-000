@@ -11,7 +11,7 @@ In this lesson, we'll discuss components and how to use components to set and ge
 4. Use controlled inputs to validate values
 5. Distinguish between `value` and `defaultValue` in a React controlled component
    
-## Code Along 
+## Code Along ad
 
 If you want to code a long there is starter code in the `src` folder. Make sure to run `npm install && npm start` to see the code in the browser.
 
